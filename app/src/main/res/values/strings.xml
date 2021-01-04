@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">SGD V.1</string>
     <string name="use_localhost">LOCALHOST</string>
-    <string name="use_server">SERVER</string>
-    <string name="connecting_to_localhost">MENGHUBUNGKAN KE LOCALHOST...</string>
+    <string name="use_server_1">SERVER 1</string>
+    <string name="connecting_to_localhost">MENGHUBUNGKAN KE LOCALHOST…</string>
     <string name="connected_to_localhost">TERHUBUNG KE LOCALHOST</string>
-    <string name="connecting_to_server">MENGHUBUNGKAN KE SERVER...</string>
+    <string name="connecting_to_server">MENGHUBUNGKAN KE SERVER…</string>
     <string name="connected_to_server">TERHUBUNG KE SERVER</string>
+    <string name="ipAddressInputHint"> ALAMAT IP </string>
+    <string name="portFieldHint">PORT</string>
+    <string name="updateButtonText">PERBARUI</string>
+    <string name="use_server_2">SERVER 2</string>
 </resources>
